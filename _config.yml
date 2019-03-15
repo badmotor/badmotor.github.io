@@ -4,21 +4,21 @@ description:      Welcome to my site.
 url:              //badmotor.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: Soumyabrata
+disqus_shortname: badmotorf
 
 # Owner/author information
 owner:
-  name:           Soumyabrata DEV
+  name:           Fabrizio Orlandi
   avatar:         soumya-pic.jpg
   bio:            Postdoctoral Researcher at ADAPT Centre
-  email:          soumyabrata.dev@adaptcentre.ie
+  email:          fabrizio.orlandi@adaptcentre.ie
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: SoumyabrataDev
-  linkedin: soumyabratadev
+  twitter: badmotorf
+  linkedin: fabriziorlandi
   google_scholar: _akXw8IAAAAJ
   #google_plus: 113718226018314522413
-  github: Soumyabrata
-  publons: author/1307481/soumyabrata-dev
+  github: badmotor
+  #publons: author/1307481/soumyabrata-dev
 # Analytics and webmaster tools stuff goes here
 #google_analytics: UA-52736040-1
 #google_verify:
