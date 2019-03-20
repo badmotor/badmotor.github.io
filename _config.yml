@@ -1,10 +1,10 @@
 title:            Fabrizio Orlandi's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //fabriziorlandi.github.io
+url:              //badmotor.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: fabriziorlandi
+disqus_shortname: badmotor
 
 # Owner/author information
 owner:
