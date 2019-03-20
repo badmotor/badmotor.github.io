@@ -3,43 +3,27 @@ layout: page
 permalink: /contact/
 title: Contact Me
 tags: 
-modified: 24-04-2017
+modified: 20-03-2019
 comments: false
 ---
 <!---
-email: <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcentre.ie</a>  
-phone: + 353 1896 1797   
-address: ADAPT Centre, Room G31, O'Reilly Building, Dublin 2 (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)  
+email: <a href="mailto:orlandif[*AT*]tcd[*DOT*]ie">orlandif[*AT*]tcd[*DOT*]ie</a>  
+phone: +353   
+address: ADAPT Centre, Room G31, O'Reilly Building, Dublin 2 (see <a href="https://goo.gl/maps/1H5Vr5TEmA72">Google Maps</a>)  
 Trinity College Dublin, Ireland  
 affiliation: IEEE (S'09-M'17)  
 -->
 
 |                  |                                                                       |
 |------------------|-----------------------------------------------------------------------|
-| email            | <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcentre.ie</a>|
-| phone            | + 353 1896 1797                                                       |
+| email            | <a href="mailto:orlandif[*AT*]tcd[*DOT*]ie">orlandif[*AT*]tcd[*DOT*]ie</a>|
 | address          | The ADAPT Centre                                                      |
 |                  | Room G31, O’Reilly Building, Dublin 2                                 |
 |                  | Trinity College Dublin, Ireland                                       |
-|                  | (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)|
+|                  | (see <a href="https://goo.gl/maps/1H5Vr5TEmA72">Google Maps</a>)|
 | affiliation      | <img src="{{ site.baseurl }}/images/adapt-logo.png" width="140">      |
-| membership       | IEEE (S’09-M’17)                                                      |
 
 <!---
-| curriculum vitae | <a href="https://soumyabratadev.files.wordpress.com/2018/05/cv-soumya.pdf">PDF</a>|
+| curriculum vitae | <a href="https://">PDF</a>|
 -->
 
-
-
-<!---
-Communication Research I  
-S2.1 B4-03/04  
-50 Nanyang Avenue  
-Electrical and Electronic Engineering  
-Nanyang Technological University  
-Singapore-639798  
-
-email: soumyabr001[at]e[dot]ntu[dot]edu[dot]sg  
-
-phone: +65 6790 6527 
--->
