@@ -9,13 +9,14 @@ disqus_shortname: badmotorf
 # Owner/author information
 owner:
   name:           Fabrizio Orlandi
-  avatar:         soumya-pic.jpg
-  bio:            Postdoctoral Researcher at ADAPT Centre
+  avatar:         fabrizio-pic.jpg
+  bio:            Research Fellow at ADAPT Centre, Trinity College Dublin
   email:          fabrizio.orlandi@adaptcentre.ie
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: badmotorf
   linkedin: fabriziorlandi
-  google_scholar: _akXw8IAAAAJ
+  #google_scholar: _akXw8IAAAAJ
+  google_scholar: OC6mokcAAAAJ
   #google_plus: 113718226018314522413
   github: badmotor
   #publons: author/1307481/soumyabrata-dev
@@ -30,8 +31,6 @@ owner:
 links:
   #- title: Curriculum
   #  url: /cv/
-  #- title: Publications
-  #  url: /publications/
   #- title: Code
   #  url: /code/
   #- title: Blog
@@ -40,15 +39,15 @@ links:
     url: /research/
   - title: Publications
     url: /publications/    
-  - title: Teaching
-    url: /teaching/      
-  - title: News
-    url: /news/      
+  #- title: Teaching
+  #  url: /teaching/      
+  #- title: News
+  #  url: /news/      
   - title: Contact
     url: /contact/      
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    Europe/Dublin
 future:      true
 #pygments:    true
 highlighter: rouge
