@@ -1,20 +1,19 @@
 ---
 layout: home3
 title: About Me
-description: "Soumyabrata DEV's website"
+description: "Fabrizio Orlandi's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
 ---
 
-I am a <a href="https://www.adaptcentre.ie/about/team/category/21">Postdoctoral Researcher</a> at <a href="https://www.adaptcentre.ie">ADAPT Centre</a>, the [Science Foundation Ireland (SFI)](http://www.sfi.ie/)-funded research centre, based at <a href="http://www.tcd.ie">Trinity College Dublin</a>. I am working with <a href="https://francois.pitie.net">Prof. Fran&ccedil;ois Piti&eacute;</a> and <a href="https://ie.linkedin.com/in/declanmckibben">Declan McKibben</a>, <a href="https://www.adaptcentre.ie/industry/design-and-innovation-lab">Design & Innovation Lab (dLab)</a>, ADAPT Centre. <!---I am also an <a href="https://www.ncirl.ie/Faculty-Depts/A-Z-Staff-Directory/Staff/404">Associate Faculty</a> at <a href="https://www.ncirl.ie/Faculty-Depts/School-of-Computing">School of Computing</a>, <a href="https://www.ncirl.ie">National College of Ireland</a>, Dublin.--->
+I am a <a href="https://www.adaptcentre.ie/about/team/">Postdoctoral Researcher</a> at <a href="https://www.adaptcentre.ie">ADAPT Centre</a>, the [Science Foundation Ireland (SFI)](http://www.sfi.ie/)-funded research centre, based at <a href="http://www.tcd.ie">Trinity College Dublin</a>. I am working with <a href="https://francois.pitie.net">Prof. Declan O'Sullivan</a> and <a href="https://ie.linkedin.com/in/declanmckibben">Declan McKibben</a>, <a href="https://www.adaptcentre.ie/industry/design-and-innovation-lab">Design & Innovation Lab (dLab)</a>, ADAPT Centre. 
+My research interests range from Information Extraction and Knowledge Management using Semantic Web and Big Data tech-
+nologies, to User Modelling and Web Personalisation.
 <!---comments here--->
 
 <br />
-I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institute of Technology Silchar</a>, India summa cum laude in 2010. I completed my Ph.D. from <a href="www.ntu.edu.sg/Pages/home.aspx">Nanyang Technological University (NTU) Singapore</a>, under the supervision of <a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EYHLEE">Prof. Lee Yee Hui</a> and <a href="https://stefan.winkler.site/">Dr. Stefan Winkler</a>, in 2017. I was a team member of <a href="http://vintage.winklerbros.net/index.html">Vision & InterAction Group (Vintage)</a>, at <a href="http://adsc.illinois.edu/">Advanced Digital Sciences Center (ADSC)</a>, the Singapore-based research center of the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>. 
-
-<br />
-From Aug-Dec 2015, I was a visiting <a href="http://people.epfl.ch/soumyabrata.dev">Doctoral Assistant</a> at <a href="http://lcav.epfl.ch/">Audiovisual Communication Laboratory (LCAV)</a>, at <a href="http://www.epfl.ch/">Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne</a>, Switzerland, under the supervision of <a href="http://lcav.epfl.ch/martin.vetterli">Prof. Martin Vetterli</a> and <a href="http://lcav.epfl.ch/op/edit/people/adam.scholefield">Dr. Adam Scholefield</a>.
-
-<br />
-Prior joining my doctoral program at NTU, I worked with <a href="http://www.ericsson.com/in">Ericsson India</a> as a network engineer from 2010 to 2012.
+Prior joining ADAPT, I worked as postdoctoral researcher in the “Enterprise Information Systems” department at Fraunhofer
+IAIS and the “Smart Data Analytics” group at the University of Bonn.  In 2014, I received my Ph.D. degree from the
+Faculty of Engineering at the National University of Ireland, Galway. Prior to joining Fraunhofer, I contributed to research efforts (2010-2014) at the Digital Enterprise Research Institute (DERI), the largest Semantic Web research centre worldwide. During this time my research focused on provenance for the Web of Data and user profiling across heterogeneous online communities. In 2014–2015, I was an ERCIM research fellow visiting Fraunhofer IAIS. Currently, I have the role of
+deputy coordinator in the H2020 OpenBudgets.eu project, I supervise a group of nine PhD students and software developers and contribute to EU H2020 projects such as BigDataOcean and SLIPO.eu.
