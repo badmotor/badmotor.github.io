@@ -15,12 +15,12 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: badmotorf
   linkedin: fabriziorlandi
-  #google_scholar: _akXw8IAAAAJ
-  google_scholar: OC6mokcAAAAJ
-  #google_plus: 113718226018314522413
-  github: badmotor
   orcid: 0000-0001-9561-4635
-  #publons: author/1307481/soumyabrata-dev
+  google_scholar: OC6mokcAAAAJ
+  #google_plus: 
+  github: badmotor
+  
+  #publons: author/...
 # Analytics and webmaster tools stuff goes here
 #google_analytics: UA-52736040-1
 #google_verify:
