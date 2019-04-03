@@ -1,15 +1,15 @@
 ---
-layout: novipage
+layout: page
 permalink: /publications/
 title: Publications
-tags: [code]
+tags: [publications]
 modified: 03-04-2019
 comments: false
-sidebar:
-  nav: sidebar-pubs
 ---
 
 ## List of Publications by Year
+
+For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
 #### 2018
 
