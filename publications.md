@@ -13,6 +13,7 @@ sidebar:
 
 
 + Orlandi, Fabrizio; Debattista, Jeremy; Hassan, Islam A.; Latifi, Majid; Nicholson, Matthew; Conran, Clare; Salim, Fahim A.; Turner, Daniel; Conlan, Owen; O'Sullivan, Declan; Tang, Jian;, Leveraging Knowledge Graphs of Movies and their Content for Web-Scale Analysis, *MIRA Workshop at SITIS2018 The 14th International Conference on Signal Image Technology & Internet Based Systems*, 2018.
+
 + Attard, Judie; Orlandi, Fabrizio; Auer, Sören;, ExConQuer: Lowering barriers to RDF and Linked Data re-use, *Semantic Web*, 2018.
 + Musyaffa, Fathoni A; Orlandi, Fabrizio; Jabeen, Hajira; Vidal, Maria Esther;, Classifying data heterogeneity within budget and spending open data, *Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance*, 2018.
 + Musyaffa, Fathoni A; Engels, Christiane; Vidal, Maria-Esther; Orlandi, Fabrizio; Auer, Sören;, Experience: Open Fiscal Datasets, Common Issues, and Recommendations, *Journal of Data and Information Quality (JDIQ)*, 2018.
