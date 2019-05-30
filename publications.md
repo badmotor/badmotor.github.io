@@ -11,6 +11,9 @@ comments: false
 
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
+#### 2019
++ Tasnim, Mayesha; Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Vidal, Maria-Esther; Summarizing Entity Temporal Evolution in Knowledge Graphs, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19) - MEPDaW Workshop*, 2019.
+
 #### 2018
 
 + Orlandi, Fabrizio; Debattista, Jeremy; Hassan, Islam A.; Latifi, Majid; Nicholson, Matthew; Conran, Clare; Salim, Fahim A.; Turner, Daniel; Conlan, Owen; O'Sullivan, Declan; Tang, Jian; Leveraging Knowledge Graphs of Movies and their Content for Web-Scale Analysis, *MIRA Workshop at SITIS2018 The 14th International Conference on Signal Image Technology & Internet Based Systems*, 2018.
