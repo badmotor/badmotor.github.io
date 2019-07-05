@@ -12,6 +12,9 @@ comments: false
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
 #### 2019
+
++ Orlandi, Fabrizio; Meehan, Alan; Hossari, Murhaf; Dev, Soumyabrata; O'Sullivan, Declan; Alskaif, Tarek; Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2019.
+
 + Tasnim, Mayesha; Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Vidal, Maria-Esther; Summarizing Entity Temporal Evolution in Knowledge Graphs, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19) - MEPDaW Workshop*, 2019.
 
 #### 2018
