@@ -13,6 +13,8 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2019
 
++ Crotti Junior, Ademar; Orlandi, Fabrizio; O'Sullivan, Declan; Dirschl, Christian; Reul, Quentin; Using Mapping Languages for Building Legal Knowledge Graphs from XML files, *Proc. Contextualized Knowledge Graphs Workshop at ISWC*, 2019.
+
 + Orlandi, Fabrizio; Meehan, Alan; Hossari, Murhaf; Dev, Soumyabrata; O'Sullivan, Declan; Alskaif, Tarek; Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2019.
 
 + Tasnim, Mayesha; Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Vidal, Maria-Esther; Summarizing Entity Temporal Evolution in Knowledge Graphs, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19) - MEPDaW Workshop*, 2019.
@@ -61,9 +63,9 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Mouzakitis, Spiros; Attard, Judie; Danitz, Robert; Farid, Lena; Fotopoulou, Eleni; Galkin, Michael; Kapourani, Barbara; Orlandi, Fabrizio; Papaspyros, Dimitris; Petychakis, Michael; LinDA - Linked Data for SMEs, *Semantic Web Journal*, 2015.
 
-+ Thellmann, Klaudia; Galkin, Michael; Orlandi, Fabrizio; Auer, Sören; LinkDaViz–automatic binding of linked data to visualizations, *International Semantic Web Conference*, 2015.
++ Thellmann, Klaudia; Galkin, Michael; Orlandi, Fabrizio; Auer, Sören; LinkDaViz–automatic binding of linked data to visualizations, *International Semantic Web Conference (ISWC)*, 2015.
 
-+ Endris, Kemele M; Faisal, Sidra; Orlandi, Fabrizio; Auer, Sören; Scerri, Simon; Interest-based RDF update propagation, *International Semantic Web Conference*, 2015.
++ Endris, Kemele M; Faisal, Sidra; Orlandi, Fabrizio; Auer, Sören; Scerri, Simon; Interest-based RDF update propagation, *International Semantic Web Conference (ISWC)*, 2015.
 
 + Attard, Judie; Orlandi, Fabrizio; Scerri, Simon; Auer, Sören; A systematic review of open government data initiatives, *Government Information Quarterly Journal*, 2015.
 
