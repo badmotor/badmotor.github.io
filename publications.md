@@ -17,7 +17,7 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Crotti Junior, Ademar; Orlandi, Fabrizio; O'Sullivan, Declan; Dirschl, Christian; Reul, Quentin; Using Mapping Languages for Building Legal Knowledge Graphs from XML files, *Proc. Contextualized Knowledge Graphs Workshop at ISWC*, 2019.
 
-+ Orlandi, Fabrizio; Meehan, Alan; Hossari, Murhaf; Dev, Soumyabrata; O'Sullivan, Declan; Alskaif, Tarek; Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2019.
++ Orlandi, Fabrizio; Meehan, Alan; Hossari, Murhaf; Dev, Soumyabrata; O'Sullivan, Declan; Alskaif, Tarek; Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International IEEE Conference on Smart Energy Systems and Technologies (SEST)*, 2019.
 
 + Debattista, Jeremy; Fernández, Javier D.; Orlandi, Fabrizio; Vidal, Maria Esther; MEPDaW Chairs' Welcome, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19)*, 2019.
 
