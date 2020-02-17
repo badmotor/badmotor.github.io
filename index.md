@@ -7,7 +7,7 @@ image:
   feature: 
 ---
 
-I'm a <a href="https://edge-research.eu/fellows/fabrizio-orlandi/">Marie Skłodowska-Curie EDGE Research Fellow</a> at <a href="https://www.adaptcentre.ie/team-members/person-detail/fabrizio-orlandi">ADAPT Centre</a>, the [Science Foundation Ireland (SFI)](http://www.sfi.ie/)-funded research centre, based at <a href="http://www.tcd.ie">Trinity College Dublin</a>. I am working with <a href="https://www.tcd.ie/research/profiles/?profile=osulldps">Prof. Declan O'Sullivan</a> and <a href="https://ie.linkedin.com/in/declanmckibben">Declan McKibben</a>, <a href="https://www.adaptcentre.ie/industry/design-and-innovation-lab">Design & Innovation Lab (dLab)</a>, ADAPT Centre. 
+I'm a <a href="https://edge-research.eu/fellows/fabrizio-orlandi/">(Marie Skłodowska-Curie EDGE)</a> Research Scientist at <a href="https://www.adaptcentre.ie/team-members/person-detail/fabrizio-orlandi">ADAPT Centre</a>, the [Science Foundation Ireland (SFI)](http://www.sfi.ie/)-funded research centre, based at <a href="http://www.tcd.ie">Trinity College Dublin</a>. I am working with <a href="https://www.tcd.ie/research/profiles/?profile=osulldps">Prof. Declan O'Sullivan</a> and <a href="https://ie.linkedin.com/in/declanmckibben">Declan McKibben</a>, <a href="https://www.adaptcentre.ie/industry/design-and-innovation-lab">Design & Innovation Lab (dLab)</a>, ADAPT Centre. 
 
 <br />
 My research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Social Media, Personalisation and Open Data. In these areas, I have experience on foundational and applied research on both EU-funded and industry projects.
