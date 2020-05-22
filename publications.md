@@ -11,9 +11,11 @@ comments: false
 
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
-#### 2019
+#### 2020
 
-+ Musyaffa, Fathoni A.; Vidal, Maria-Esther; Orlandi, Fabrizio; Lehmann, Jens; Jabeen, Hajira; IOTA: Interlinking of Heterogeneous Multilingual Open Fiscal DaTA, *Journal of Expert Systems with Applications*, Elsevier, 2019.
++ Musyaffa, Fathoni A.; Vidal, Maria-Esther; Orlandi, Fabrizio; Lehmann, Jens; Jabeen, Hajira; IOTA: Interlinking of Heterogeneous Multilingual Open Fiscal DaTA, *Journal of Expert Systems with Applications*, Elsevier, 2020.
+
+#### 2019
 
 + Crotti Junior, Ademar; Orlandi, Fabrizio; O'Sullivan, Declan; Dirschl, Christian; Reul, Quentin; Using Mapping Languages for Building Legal Knowledge Graphs from XML files, *Proc. Contextualized Knowledge Graphs Workshop at ISWC*, 2019.
 
