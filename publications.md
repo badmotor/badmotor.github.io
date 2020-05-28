@@ -13,7 +13,12 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2020
 
-+ Musyaffa, Fathoni A.; Vidal, Maria-Esther; Orlandi, Fabrizio; Lehmann, Jens; Jabeen, Hajira; IOTA: Interlinking of Heterogeneous Multilingual Open Fiscal DaTA, *Journal of Expert Systems with Applications*, Elsevier, 2020.
++ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *ESWC 2020 (Poster Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
+
++ Crotti Junior, Ademar; Orlandi, Fabrizio; Graux, Damien; Hossari, Murhaf; O'Sullivan, Declan; Hartz, Christian; Dirschl, Christian; Knowledge Graph-based Legal Search over German Court Cases, 
+*ESWC 2020 (Industry Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Industry_WKDLegal.pdf">[PDF]</a>
+
++ Musyaffa, Fathoni A.; Vidal, Maria-Esther; Orlandi, Fabrizio; Lehmann, Jens; Jabeen, Hajira; IOTA: Interlinking of Heterogeneous Multilingual Open Fiscal DaTA, *Journal of Expert Systems with Applications*, Elsevier, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWA_fiscal.pdf">[PDF]</a>
 
 #### 2019
 
