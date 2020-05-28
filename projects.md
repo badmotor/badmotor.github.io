@@ -11,13 +11,10 @@ comments: false
 sidebar:
   nav: sidebar-research
 -->
-
-
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-# Projects 
 Here is a list of some of the main research projects I was involved in the last few years. Most of the projects have received funding either from the EU or from industry.
 
 ## [<u>“DynamoKG” Exploring dynamic and uncertain facts in knowledge graphs</u>](https://edge-research.eu/fellows/fabrizio-orlandi/)
@@ -53,4 +50,4 @@ designed for the entire corpus of German court cases mantained by Wolters Kluwer
 The amount of video content available on the Web is constantly growing. This has made it harder for viewers to discover the right visual content for them. Recommender systems are being offered by VoD services in order to automatically suggest potentially interesting videos to users. However, recommendations are typically based on: (i) limited video metadata fields, such as genre, title and actors; (ii) the content that other users liked; (iii) private or isolated data repositories. Our proposed approach leverages the richness of semantic technologies to enrich movie metadata, and create meaningful descriptions of movie scenes using video and audio processing techniques. This approach allows for the creation of a structured and interoperable Knowledge Graph (KG) describing movies and their content. This enables deeper data analysis of movie content at Web scale including, for example, algorithms for automatic video summarisation.
 
 
-#### Work in progress...
+#### Older projects will be added soon...
