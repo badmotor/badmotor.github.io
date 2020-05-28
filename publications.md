@@ -13,7 +13,7 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2020
 
-+ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *ESWC 2020 (Poster Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
++ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *ESWC 2020 (Posters and Demos Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
 
 + Crotti Junior, Ademar; Orlandi, Fabrizio; Graux, Damien; Hossari, Murhaf; O'Sullivan, Declan; Hartz, Christian; Dirschl, Christian; Knowledge Graph-based Legal Search over German Court Cases, 
 *ESWC 2020 (Industry Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Industry_WKDLegal.pdf">[PDF]</a>
@@ -22,13 +22,13 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2019
 
-+ Crotti Junior, Ademar; Orlandi, Fabrizio; O'Sullivan, Declan; Dirschl, Christian; Reul, Quentin; Using Mapping Languages for Building Legal Knowledge Graphs from XML files, *Proc. Contextualized Knowledge Graphs Workshop at ISWC*, 2019.
++ Crotti Junior, Ademar; Orlandi, Fabrizio; O'Sullivan, Declan; Dirschl, Christian; Reul, Quentin; Using Mapping Languages for Building Legal Knowledge Graphs from XML files, *Proc. Contextualized Knowledge Graphs Workshop at ISWC*, 2019. <a href="http://fabriziorlandi.net/pdf/2019/ISWC2019_CKG_LegalKG.pdf">[PDF]</a>
 
-+ Orlandi, Fabrizio; Meehan, Alan; Hossari, Murhaf; Dev, Soumyabrata; O'Sullivan, Declan; Alskaif, Tarek; Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International IEEE Conference on Smart Energy Systems and Technologies (SEST)*, 2019.
++ Orlandi, Fabrizio; Meehan, Alan; Hossari, Murhaf; Dev, Soumyabrata; O'Sullivan, Declan; Alskaif, Tarek; Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International IEEE Conference on Smart Energy Systems and Technologies (SEST)*, 2019. <a href="http://fabriziorlandi.net/pdf/2019/SEST_SmartEnergy.pdf">[PDF]</a>
 
-+ Debattista, Jeremy; Fernández, Javier D.; Orlandi, Fabrizio; Vidal, Maria Esther; MEPDaW Chairs' Welcome, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19)*, 2019.
++ Debattista, Jeremy; Fernández, Javier D.; Orlandi, Fabrizio; Vidal, Maria Esther; MEPDaW Chairs' Welcome, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19)*, 2019. <a href="http://fabriziorlandi.net/pdf/2019/MEPDaW_2019_Chairs.pdf">[PDF]</a>
 
-+ Tasnim, Mayesha; Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Vidal, Maria-Esther; Summarizing Entity Temporal Evolution in Knowledge Graphs, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19) - MEPDaW Workshop*, 2019.
++ Tasnim, Mayesha; Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Vidal, Maria-Esther; Summarizing Entity Temporal Evolution in Knowledge Graphs, *Companion Proceedings of The 2019 World Wide Web Conference (WWW '19) - MEPDaW Workshop*, 2019. <a href="http://fabriziorlandi.net/pdf/2019/MEPDaW_2019_Summarizing.pdf">[PDF]</a>
 
 #### 2018
 
