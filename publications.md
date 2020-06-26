@@ -13,6 +13,8 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2020
 
++ Orlandi, Fabrizio; O'Sullivan, Declan; RDF Reification Benchmark using the Biomedical Knowledge Repository (BKR) (Version 0.1), *Data set, Zenodo*, 2020. <a href="http://doi.org/10.5281/zenodo.3894746">[DOI]</a>
+
 + Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *ESWC 2020 (Posters and Demos Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
 
 + Crotti Junior, Ademar; Orlandi, Fabrizio; Graux, Damien; Hossari, Murhaf; O'Sullivan, Declan; Hartz, Christian; Dirschl, Christian; Knowledge Graph-based Legal Search over German Court Cases, 
