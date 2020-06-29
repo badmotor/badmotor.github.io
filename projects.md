@@ -49,6 +49,15 @@ designed for the entire corpus of German court cases mantained by Wolters Kluwer
 
 The amount of video content available on the Web is constantly growing. This has made it harder for viewers to discover the right visual content for them. Recommender systems are being offered by VoD services in order to automatically suggest potentially interesting videos to users. However, recommendations are typically based on: (i) limited video metadata fields, such as genre, title and actors; (ii) the content that other users liked; (iii) private or isolated data repositories. Our proposed approach leverages the richness of semantic technologies to enrich movie metadata, and create meaningful descriptions of movie scenes using video and audio processing techniques. This approach allows for the creation of a structured and interoperable Knowledge Graph (KG) describing movies and their content. This enables deeper data analysis of movie content at Web scale including, for example, algorithms for automatic video summarisation.
 
+## [<u>BigDataOcean</u>](http://www.bigdataocean.eu/)
+#### [EU H2020 project, 2.5 years, 10 partners, approx. 3M euro overall budget (2017-2019)](https://cordis.europa.eu/project/id/732310) 
+
+*Role: Work Package Leader*
+
+*Abstract:*
+
+The main objective of BigDataOcean is to enable maritime big data scenarios for EU-based companies, organisations and scientists, through a multi-segment platform that will combine data of different velocity, variety and volume under an inter-linked, trusted, multilingual engine to produce a big-data repository of value and veracity back to the participants and local communities. In particular I was responsible for WP3 "Cross-Sector Semantics, Analytics and Business Intelligence Algorithms" leading the work on Linked Data vocabularies and the BDO Metadata Repository architecture. In addition to issues of Harmonisation, Knowledge Extraction, Business Intelligence and Usage Analytics Services
+
 ## [<u>OpenBudgets.eu</u>](http://openbudgets.eu/)
 #### [EU H2020 project, 2.5 years, 9 partners, approx. 3M euro overall budget (2015-2017)](https://cordis.europa.eu/article/id/222405-new-online-platform-to-make-public-budgets-more-transparent) 
 
@@ -57,6 +66,5 @@ The amount of video content available on the Web is constantly growing. This has
 *Abstract:*
 
 Openness and transparency can act as a disincentive to corruption. Government agencies, data wranglers, journalists and even citizens can access a comprehensive online platform to analyse and participate in public budgets. The OpenBudgets.eu project, known as OBEU, has developed an open-source software framework and a software-as-a-service (SAAS) to support financial transparency and enhance accountability within the public sector at all levels up to European level. OBEU has created a Linked Data platform with a complete set of 13 tools, 3 use-cases and many datasets represented as interlinked knowledge graphs.
-
 
 #### Older projects will be added soon...
