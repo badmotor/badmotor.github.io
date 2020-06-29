@@ -50,7 +50,7 @@ designed for the entire corpus of German court cases mantained by Wolters Kluwer
 The amount of video content available on the Web is constantly growing. This has made it harder for viewers to discover the right visual content for them. Recommender systems are being offered by VoD services in order to automatically suggest potentially interesting videos to users. However, recommendations are typically based on: (i) limited video metadata fields, such as genre, title and actors; (ii) the content that other users liked; (iii) private or isolated data repositories. Our proposed approach leverages the richness of semantic technologies to enrich movie metadata, and create meaningful descriptions of movie scenes using video and audio processing techniques. This approach allows for the creation of a structured and interoperable Knowledge Graph (KG) describing movies and their content. This enables deeper data analysis of movie content at Web scale including, for example, algorithms for automatic video summarisation.
 
 ## [<u>SLIPO - Scalable Linking and Integration of Big POI Data</u>](http://slipo.eu/)
-#### [EU H2020 project, 3 years, 7 partners, approx. 3M euro overall budget (2017-2019)](https://cordis.europa.eu/project/id/732310) 
+#### [EU H2020 project, 3 years, 7 partners, approx. 3M euro overall budget (2017-2019)](https://cordis.europa.eu/project/id/731581) 
 
 *Role: Work Package & Task Leader*
 
