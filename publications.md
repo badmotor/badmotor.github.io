@@ -13,9 +13,13 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2020
 
++ Arispe, Martin; Tasnim, Mayesha; Graux, Damien; Orlandi, Fabrizio; Collarana, Diego; Verbalizing the Evolution of Knowledge Graphs with Formal Concept Analysis. *Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at ISWC 2020*, 2020. 
+
++ Graux, Damien; Orlandi, Fabrizio; Lynch, Brian; Mahon, Isobel; Mullen, Odhran; Mahon, Alex; Molnar, Flora; Mantiquilla, Lexes; A real-time visual dashboard for Wikidata edits. *Visualization and Interaction for Ontologies and Linked Data (Voila!) at ISWC 2020*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ISWC2020-VOILA_Real_Time_WikiData.pdf">[PDF]</a>
+
 + Pandit, Harshvardhan J.; Graux, Damien; Orlandi, Fabrizio; Crotti Junior, Ademar; O'Sullivan, Declan; Lewis, Dave; Semantic Schema Mapping for Interoperable Data-Exchange. *Ontology Matching Workshop at ISWC 2020*, 2020. <a href="http://doi.org/10.5281/zenodo.4042026">[DOI]</a><a href="http://fabriziorlandi.net/pdf/2020/ISWC2020-OM_Semantic_Schema_Mapping.pdf">[PDF]</a>
 
-+ Orlandi, Fabrizio; O'Sullivan, Declan; RDF Reification Benchmark using the Biomedical Knowledge Repository (BKR) (Version 0.1), *Data set, Zenodo*, 2020. <a href="http://doi.org/10.5281/zenodo.3894746">[DOI]</a>
++ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; RDF Reification Benchmark using the Biomedical Knowledge Repository (BKR) (Version 0.1), *Data set, Zenodo*, 2020. <a href="http://doi.org/10.5281/zenodo.3894746">[DOI]</a>
 
 + Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *ESWC 2020 (Posters and Demos Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
 
