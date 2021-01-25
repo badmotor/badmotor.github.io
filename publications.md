@@ -11,6 +11,7 @@ comments: false
 
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
+
 #### 2021
 
 + Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; Benchmarking RDF Metadata Representations: Reification, Singleton Property and RDF\*, *15th IEEE International Conference on Semantic Computing (ICSC)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ICSC2021_REF_Benchmark_Reification_RDFstar.pdf">[PDF]</a>
