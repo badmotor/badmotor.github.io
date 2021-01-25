@@ -11,6 +11,10 @@ comments: false
 
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
+#### 2021
+
++ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; Benchmarking RDF Metadata Representations: Reification, Singleton Property and RDF\*, *15th IEEE International Conference on Semantic Computing (ICSC)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ICSC2021_REF_Benchmark_Reification_RDFstar.pdf">[PDF]</a>
+
 #### 2020
 
 + Arispe, Martin; Tasnim, Mayesha; Graux, Damien; Orlandi, Fabrizio; Collarana, Diego; Verbalizing the Evolution of Knowledge Graphs with Formal Concept Analysis. *Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at ISWC 2020*, 2020. 
@@ -21,10 +25,9 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; RDF Reification Benchmark using the Biomedical Knowledge Repository (BKR) (Version 0.1), *Data set, Zenodo*, 2020. <a href="http://doi.org/10.5281/zenodo.3894746">[DOI]</a>
 
-+ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *ESWC 2020 (Posters and Demos Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
++ Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; How many stars do you see in this constellation?, *Posters and Demos Track, ESWC 2020*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Poster_RDFStar.pdf">[PDF]</a>
 
-+ Crotti Junior, Ademar; Orlandi, Fabrizio; Graux, Damien; Hossari, Murhaf; O'Sullivan, Declan; Hartz, Christian; Dirschl, Christian; Knowledge Graph-based Legal Search over German Court Cases, 
-*ESWC 2020 (Industry Track)*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Industry_WKDLegal.pdf">[PDF]</a>
++ Crotti Junior, Ademar; Orlandi, Fabrizio; Graux, Damien; Hossari, Murhaf; O'Sullivan, Declan; Hartz, Christian; Dirschl, Christian; Knowledge Graph-based Legal Search over German Court Cases, *Industry Track, ESWC 2020*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWC2020_Industry_WKDLegal.pdf">[PDF]</a>
 
 + Musyaffa, Fathoni A.; Vidal, Maria-Esther; Orlandi, Fabrizio; Lehmann, Jens; Jabeen, Hajira; IOTA: Interlinking of Heterogeneous Multilingual Open Fiscal DaTA, *Journal of Expert Systems with Applications*, Elsevier, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ESWA_fiscal.pdf">[PDF]</a>
 
