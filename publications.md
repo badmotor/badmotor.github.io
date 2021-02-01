@@ -17,7 +17,7 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2020
 
-+ Arispe, Martin; Tasnim, Mayesha; Graux, Damien; Orlandi, Fabrizio; Collarana, Diego; Verbalizing the Evolution of Knowledge Graphs with Formal Concept Analysis. *Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at ISWC 2020*, 2020. 
++ Arispe, Martin; Tasnim, Mayesha; Graux, Damien; Orlandi, Fabrizio; Collarana, Diego; Verbalizing the Evolution of Knowledge Graphs with Formal Concept Analysis. *Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at ISWC 2020*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ISWC2020-NLIWOD_Verbalizing_Evolution.pdf">[PDF]</a>
 
 + Graux, Damien; Orlandi, Fabrizio; Lynch, Brian; Mahon, Isobel; Mullen, Odhran; Mahon, Alex; Molnar, Flora; Mantiquilla, Lexes; A real-time visual dashboard for Wikidata edits. *Visualization and Interaction for Ontologies and Linked Data (Voila!) at ISWC 2020*, 2020. <a href="http://fabriziorlandi.net/pdf/2020/ISWC2020-VOILA_Real_Time_WikiData.pdf">[PDF]</a>
 
