@@ -63,6 +63,8 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Mulang Onando, Isaiah; Singh, Kuldeep; Orlandi, Fabrizio; Matching Natural Language Relations to Knowledge Graph Properties for Question Answering, *SEMANTiCS 2017*, 2017.
 
++ Lytra, Ioanna; Orlandi, Fabrizio; Vidal, Maria-Esther; BigDataOcean - Exploiting Oceans of Data for Maritime Applications, *EU projects at the 14th Extended Semantic Web Conference (ESWC'17)*, 2017. <a href="https://doi.org/10.5281/zenodo.815343">[DOI]</a>
+
 + Lytra, Ioanna; Vidal, Maria-Esther; Orlandi, Fabrizio; Attard, Judie; A big data architecture for managing oceans of data and maritime applications, *2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC)*, 2017.
 
 #### 2016 
