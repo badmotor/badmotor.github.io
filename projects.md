@@ -87,5 +87,27 @@ The main objective of BigDataOcean is to enable maritime big data scenarios for 
 
 Openness and transparency can act as a disincentive to corruption. Government agencies, data wranglers, journalists and even citizens can access a comprehensive online platform to analyse and participate in public budgets. The OpenBudgets.eu project, known as OBEU, has developed an open-source software framework and a software-as-a-service (SAAS) to support financial transparency and enhance accountability within the public sector at all levels up to European level. OBEU has created a Linked Data platform with a complete set of 13 tools, 3 use-cases and many datasets represented as interlinked knowledge graphs.
 
+
+## [<u>ODINE: Open Data INcubator for Europe</u>](https://opendataincubator.eu/)
+#### [EU H2020 project, 2.5 years, 7 partners, approx. 8M euro overall budget (2015-2017)](https://cordis.europa.eu/project/id/644683)
+
+*Role: Work Package & Task Leader*
+
+*Abstract:*
+
+The Open Data Incubator for Europe (ODINE) was a 6-month incubator for open data entrepreneurs across Europe. ODINE aimed to support the next generation of digital businesses and supported them with the development of their products. I was responsible for the data and tools infrastructure offered to the selected SMEs and the overall evaluation process. The software infrastructure supported SMEs with solutions for open data management, curation, enrichment, interlinking and publication.
+
+
+## [<u>LinDA: Enabling Linked Data and Analytics for SMEs by Renovating Public Sector Information</u>](http://linda-project.eu/)
+#### [EU FP7 project, 2 years, 8 partners, approx. 1.9M euro overall budget (2013-2015)](https://cordis.europa.eu/project/id/610565)
+
+*Role: Work Package & Task Leader*
+
+*Abstract:*
+
+The LinDA project aimed to assist SMEs and data providers in renovating public sector information as well as analyzing and interlinking them with enterprise data, by providing Open Data renovation and consumption application libraries that are based on the Linked Data paradigm but with a strong business, rather than academic, focus. The LinDA project developed: a) A rule-based system for renovating and converting a wide range of supported data structures into arbitrary RDF graphs, b) A repository for accessing and sharing Linked Data vocabularies and metadata amongst SMEs', c) An ecosystem of Linked Data publication and consumption apps (visualization, exploration, data mining), which can be bound together in a dynamic manner, leading to new, unpredicted insights. 
+
+
+
 ##
 #### Older projects will be added soon...
