@@ -18,7 +18,7 @@ sidebar:
 Here is a list of some of the main research projects I was involved in the last few years. Most of the projects have received funding either from the EU or from industry.
 
 ## [<u>“DynamoKG” Exploring dynamic and uncertain facts in knowledge graphs</u>](https://edge-research.eu/fellows/fabrizio-orlandi/)
-#### Marie Skłodowska-Curie personal research fellowship (Sep 2019 - Sep 2021)
+#### Marie Skłodowska-Curie personal research fellowship (Sep 2019 - present)
 
 *Role: P.I.*
 
@@ -26,6 +26,17 @@ Here is a list of some of the main research projects I was involved in the last 
 
 KGs are knowledge-bases of facts about entities and concepts (e.g., places, persons, artifacts) which are represented using the flexible structure of a graph. Facts are often extracted from encyclopedic knowledge, such as Wikipedia, or existing structured repositories (e.g. Wikidata), or even from unstructured sources such as social media posts (e.g. Facebook Graph). For example, a KG containing information about organisations is likely to include facts about companies, their founders, key persons, headquarters’ locations, number of employees, etc. However, facts related to entities or concepts that are dynamically changing over time are usually missing or outdated. The evolving dynamics of real world events are usually not reflected into knowledge bases. Hence, current repositories tend to represent only static snapshots of real world entities, ignoring their changes over time.
 This project aims at exploring solutions for managing temporal and evolving aspects of KGs and leveraging such features for deeper data analysis.
+
+
+## [<u>Beyond 2022: Ireland's Virtual Record Treasury</u>](https://beyond2022.ie/)
+#### Irish national research project (Jan 2020 - present)  
+
+*Role: Lead Research Scientist on Knowledge Graphs*
+
+*Abstract:*
+
+The Beyond 2022 project aims to create a virtual archive by digitally reconstructing and digitising historical records lost in an explosion and destroyed by fire in the Public Records Office of Ireland in 1922. The project is developing a knowledge graph to facilitate information retrieval and discovery over the reconstructed items. 
+
 
 ## [<u>Knowledge Graph-based Legal Search over Court Cases</u>](http://fabriziorlandi.net/pdf/2020/ESWC2020_Industry_WKDLegal.pdf)
 #### Industry project, in collaboration with [Wolters Kluwer](https://wolterskluwer.com/), Germany (2018-2019)
@@ -52,7 +63,7 @@ The amount of video content available on the Web is constantly growing. This has
 ## [<u>SLIPO - Scalable Linking and Integration of Big POI Data</u>](http://slipo.eu/)
 #### [EU H2020 project, 3 years, 7 partners, approx. 3M euro overall budget (2017-2019)](https://cordis.europa.eu/project/id/731581) 
 
-*Role: Work Package & Task Leader*
+*Role: Work Package Leader*
 
 *Abstract:*
 Locations that exhibit a certain interest or serve a certain purpose are commonly referred to as Points of Interest (POIs). The concept of a POI is quite broad, encompassing anything from a shop, restaurant or museum to an ATM or bus stop. POI data are the cornerstone of any application, service, and product even remotely related to our physical surroundings. The project delivered the first comprehensive cloud-based platform for the quality-assured world-scale integration of Big POI data assets. SLIPO reduces the effort, time, and complexity of POI data integration, providing POIs of increased size, coverage, richness and timeliness at a fraction of the cost. The SLIPO system enables non-expert of linked data technologies to import, link, fuse, and enrich heterogeneous proprietary and open POI data, regardless of their original format, schema, or identifiers. SLIPO integrates and extends leading open source Linked Data to specifically address the requirements of world-scale POI integration.
