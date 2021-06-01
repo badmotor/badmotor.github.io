@@ -12,14 +12,14 @@ sidebar:
   nav: sidebar-research
 -->
 
-## Ph.D. Students
+# Ph.D. Students
 
 ### Albert Navarro Gallinad (ADAPT TCD)
 + Dates: Sep 2020 - now
 + Title: Semantic Environmental and Rare Disease Data Integration Framework
 + Co-Supervisor: Declan O'Sullivan
 
-#### Jiantao Wu (ADAPT UCD)
+### Jiantao Wu (ADAPT UCD)
 + Dates: Jun 2020 - now
 + Title: Knowledge Graphs for Climate Data Analysis
 + Co-Supervisor: Soumyabrata Dev
@@ -38,7 +38,7 @@ sidebar:
 
 ... 
 
-## Master Students
+# Master Students
 
 
 
