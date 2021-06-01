@@ -29,11 +29,20 @@ sidebar:
 + Title: Towards Adversarially Robust Knowledge Graph Embeddings
 + Co-Supervisors: Declan O'Sullivan, Freddy Lecue, Luca Costabello
 
-### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) #### (2016 - 2021)
+### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) 
++ Dates: Jun 2016 - now
++ Title: Knowledge Context for Entity and Relation Linking
++ Co-Supervisors: Sören Auer, Jens Lehmann
 
-### Fathoni Musyaffa (Fraunhofer IAIS - Uni Bonn) #### (2015 - Mar 2021)
+### Fathoni Musyaffa (Fraunhofer IAIS - Uni Bonn) 
++ Dates: 2015 - Mar 2021
++ Title: Comparative Analysis of Open Linked Fiscal Data
++ Co-Supervisors: Sören Auer, Jens Lehmann
 
-### Judie Attard (Fraunhofer IAIS - Uni Bonn) #### (May 2014 - Mar 2017)
+### Judie Attard (Fraunhofer IAIS - Uni Bonn) 
++ Dates: May 2014 - Mar 2017
++ Title: [Strategies and Approaches for Exploiting the Value of Open Data](http://hdl.handle.net/20.500.11811/7184)
++ Co-Supervisor: Sören Auer
 
 
 ... 
