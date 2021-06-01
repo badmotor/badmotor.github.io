@@ -15,13 +15,19 @@ sidebar:
 ## Ph.D. Students
 
 ### Albert Navarro Gallinad (ADAPT TCD)
-+ **(Sep 2020 - now)** Title: Semantic Environmental and Rare Disease Data Integration Framework. 
++ Dates: Sep 2020 - now
++ Title: Semantic Environmental and Rare Disease Data Integration Framework
++ Co-Supervisor: Declan O'Sullivan
 
 #### Jiantao Wu (ADAPT UCD)
-**(Jun 2020 - now)** Title: Knowledge Graphs for Climate Data Analysis.
++ Dates: Jun 2020 - now
++ Title: Knowledge Graphs for Climate Data Analysis
++ Co-Supervisor: Soumyabrata Dev
 
 ### Peru Bhardwaj (ADAPT TCD - Accenture)
-Title: Towards Adversarially Robust Knowledge Graph Embeddings. Co-Supervisors: Declan O'Sullivan, Freddy Lecue, Luca Costabello. (Aug 2018 - Apr 2020)
++ Dates: Aug 2018 - Apr 2020
++ Title: Towards Adversarially Robust Knowledge Graph Embeddings
++ Co-Supervisors: Declan O'Sullivan, Freddy Lecue, Luca Costabello
 
 ### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) #### (2016 - 2021)
 
