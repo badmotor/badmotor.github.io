@@ -12,7 +12,7 @@ disqus_shortname: badmotor
 owner:
   name:           Fabrizio Orlandi
   avatar:         FABRIZIO_280_180_80_c1.JPG
-  bio:            Research Fellow at ADAPT Centre, Trinity College Dublin
+  bio:            Senior Research Scientist, ADAPT Centre, Trinity College Dublin
   email:          orlandif[*AT*]tcd[*DOT*]ie
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: badmotorf
@@ -44,8 +44,8 @@ links:
     url: /projects/
   - title: Publications
     url: /publications/    
-  #- title: Teaching
-  #  url: /teaching/      
+  - title: Supervision
+    url: /supervision/      
   #- title: News
   #  url: /news/      
   - title: Contact
