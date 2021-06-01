@@ -5,9 +5,12 @@ title: Supervision
 tags: 
 modified: 31-05-2021
 comments: false
+---
+
+<!--
 sidebar:
   nav: sidebar-research
----
+-->
 
 ## Ph.D. Students
 
