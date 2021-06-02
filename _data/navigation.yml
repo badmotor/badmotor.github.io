@@ -7,11 +7,14 @@ sidebar-sample:
     
     
 sidebar-supervision:
-  - title: "PhD Students"
-    url: /supervision/
+  - title: "Ph.D. Students"
+    url: /supervision/#Ph.D.-Students
   - title: "MSc & BSc Students"
-    url: /supervision/ 
+    url: /supervision/#MSc-&-BSc-Students
+  - title: "Software Engineers"
+    url: /supervision/#Software-Engineers
     
+      
 sidebar-research-less:
   - title: "Overview"
     url: /research/
