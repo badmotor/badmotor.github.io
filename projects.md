@@ -15,7 +15,7 @@ sidebar:
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
 
-Here is a list of some of the main research projects I was involved in the last few years. Most of the projects have received funding either from the EU or from industry.
+Here is a list of some of the main research projects I was involved in over the last few years. Most of the projects have received funding either from the EU or from industry.
 
 ## [<u>“DynamoKG” Exploring dynamic and uncertain facts in knowledge graphs</u>](https://edge-research.eu/fellows/fabrizio-orlandi/)
 #### Marie Skłodowska-Curie personal research fellowship (Sep 2019 - present)
