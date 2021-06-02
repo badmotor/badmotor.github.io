@@ -44,7 +44,13 @@ sidebar:
 
 ... 
 
-# Master Students
+# MSc & BSc Students
+
+...
+
+# Software Engineers
+
+...
 
 
 
