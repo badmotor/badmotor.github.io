@@ -11,32 +11,32 @@ sidebar:
 
 # Ph.D. Students
 
-### Albert Navarro Gallinad (ADAPT TCD)
+#### Albert Navarro Gallinad (ADAPT TCD)
 + Dates: Sep 2020 - now
 + Title: Semantic Environmental and Rare Disease Data Integration Framework
 + Co-Supervisor: Declan O'Sullivan
 
-### Jiantao Wu (ADAPT UCD)
+#### Jiantao Wu (ADAPT UCD)
 + Dates: Jun 2020 - now
 + Title: Knowledge Graphs for Climate Data Analysis
 + Co-Supervisor: Soumyabrata Dev
 
-### Peru Bhardwaj (ADAPT TCD - Accenture)
+#### Peru Bhardwaj (ADAPT TCD - Accenture)
 + Dates: Aug 2018 - Apr 2020
 + Title: Towards Adversarially Robust Knowledge Graph Embeddings
 + Co-Supervisors: Declan O'Sullivan, Freddy Lecue, Luca Costabello
 
-### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) 
+#### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) 
 + Dates: Jun 2016 - now
 + Title: Knowledge Context for Entity and Relation Linking
 + Co-Supervisors: Sören Auer, Jens Lehmann
 
-### Fathoni Musyaffa (Fraunhofer IAIS - Uni Bonn) 
+#### Fathoni Musyaffa (Fraunhofer IAIS - Uni Bonn) 
 + Dates: 2015 - Mar 2021
 + Title: Comparative Analysis of Open Linked Fiscal Data
 + Co-Supervisors: Sören Auer, Jens Lehmann
 
-### Judie Attard (Fraunhofer IAIS - Uni Bonn) 
+#### Judie Attard (Fraunhofer IAIS - Uni Bonn) 
 + Dates: May 2014 - Mar 2017
 + Title: [Strategies and Approaches for Exploiting the Value of Open Data](http://hdl.handle.net/20.500.11811/7184)
 + Co-Supervisor: Sören Auer
@@ -50,7 +50,7 @@ sidebar:
 
 # Software Engineers
 
-...
+...TODO...
 
 
 
