@@ -6,6 +6,11 @@ sidebar-sample:
     
     
     
+sidebar-supervision:
+  - title: "PhD Students"
+    url: /supervision/
+  - title: "MSc & BSc Students"
+    url: /supervision/ 
     
 sidebar-research-less:
   - title: "Overview"
