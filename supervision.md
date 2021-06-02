@@ -1,16 +1,13 @@
 ---
-layout: page
+layout: novipage
 permalink: /supervision/
 title: Supervision
 tags: 
 modified: 31-05-2021
 comments: false
----
-
-<!--
 sidebar:
-  nav: sidebar-research
--->
+  nav: sidebar-supervision
+---
 
 # Ph.D. Students
 
