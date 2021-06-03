@@ -46,6 +46,7 @@ sidebar:
 + Title: [Strategies and Approaches for Exploiting the Value of Open Data](http://hdl.handle.net/20.500.11811/7184)
 + Co-Supervisor: Sören Auer
 
+...
 
 # MSc & BSc Students
 
@@ -69,8 +70,12 @@ sidebar:
 + Title: [Disintermediation of Inter-Blockchain Transactions](https://arxiv.org/abs/1609.02598)
 + Co-Supervisor: Sören Auer
 
-...
+#### Gaurav Singha Roy (MSc, Computer Science, Uni Bonn)
++ Year: 2014/2015 (MSc Thesis)
++ Title: [A Framework for RDF Data Exploration and Conversion](http://eis-bonn.github.io/Theses/2015/Gaurav_SinghaRoy/thesis.pdf)
++ Co-Supervisor: Sören Auer
 
+...
 
 # Software Engineers
 
