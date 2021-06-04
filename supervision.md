@@ -46,9 +46,13 @@ sidebar:
 + Title: [Strategies and Approaches for Exploiting the Value of Open Data](http://hdl.handle.net/20.500.11811/7184)
 + Co-Supervisor: Sören Auer
 
-...
+
 
 # MSc & BSc Students
+
+#### Cian Walsh (B.A. Computer Science Linguistics and Language, TCD)
++ Year: 2020/2021 (Final Year Project - in progress)
++ Co-Supervisors: Declan O'Sullivan, Damien Graux
 
 #### Muhammad Uzair Qureshi (MAI, Electronic and Computer Engineering, TCD)
 + Year: 2019/2020 (MAI Thesis)
@@ -65,26 +69,32 @@ sidebar:
 + Title: [Automatic Knowledge Graph Construction from Events in News Articles and Public Sentiment from Twitter](http://fabriziorlandi.net/pdf/2019/Gustavo_2019_MSc_Thesis.pdf)
 + Co-Supervisor: Declan O'Sullivan
 
+#### Ana Cristina Trillos (MSc, Computer Science, Uni Bonn)
++ Year: 2017/2018 (MSc Thesis)
++ Title: [Survey on Metadata Repositories for Vocabularies and Ontologies](http://fabriziorlandi.net/pdf/2018/AnaTrillos_2018_MSc_Thesis.pdf)
++ Co-Supervisor: Ioanna Lytra
+
 #### Matthew English (MSc, Computer Science, Uni Bonn)
 + Year: 2015/2016 (MSc Thesis)
-+ Title: [Disintermediation of Inter-Blockchain Transactions](https://arxiv.org/abs/1609.02598)
++ Title: [Semantic Blockchain: Analytical Assessment of Productive Symbioses](http://fabriziorlandi.net/pdf/2016/Matthew_2016_MSc_Thesis.pdf) [(related paper)](https://arxiv.org/abs/1609.02598)
 + Co-Supervisor: Sören Auer
 
 #### Gaurav Singha Roy (MSc, Computer Science, Uni Bonn)
 + Year: 2014/2015 (MSc Thesis)
-+ Title: [A Framework for RDF Data Exploration and Conversion](http://eis-bonn.github.io/Theses/2015/Gaurav_SinghaRoy/thesis.pdf)
++ Title: [A Framework for RDF Data Exploration and Conversion](http://fabriziorlandi.net/pdf/2015/Gaurav_2015_MSc_Thesis.pdf)
 + Co-Supervisor: Sören Auer
 
-...
+
 
 # Software Engineers
 
 #### Yakun Li (Fraunhofer IAIS, Bonn)
 #### Hantong Liu (Fraunhofer IAIS, Bonn)
+#### Maik Lukasch (Fraunhofer IAIS, Bonn)
 #### Dr. Tiansi Dong (Uni Bonn)
 #### Christiane Engels (Uni Bonn)
-#### Klaudia Thellmann (Fraunhofer IAIS, Bonn)
 #### Fahrettin Gökgöz (Fraunhofer IAIS, Bonn)
+#### Klaudia Thellmann (Fraunhofer IAIS, Bonn)
 #### Gaurav Singha Roy (Fraunhofer IAIS, Bonn)
 
 
