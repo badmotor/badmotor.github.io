@@ -9,30 +9,31 @@ sidebar:
   nav: sidebar-supervision
 ---
 
+
 # Ph.D. Students
 
 #### Albert Navarro Gallinad (ADAPT TCD)
 + Dates: Sep 2020 - now
-+ Title: Semantic Environmental and Rare Disease Data Integration Framework
++ Title (provisional): [Semantic Environmental and Rare Disease Data Integration Framework](http://helical-itn.eu/albert-navarro-gallinad/)
 + Co-Supervisor: Declan O'Sullivan
 
 #### Jiantao Wu (ADAPT UCD)
 + Dates: Jun 2020 - now
-+ Title: Knowledge Graphs for Climate Data Analysis
++ Title (provisional): [Knowledge Graphs for Climate Data Analysis](http://jresearch.ucd.ie/linkclimate/index.html)
 + Co-Supervisors: Soumyabrata Dev, Declan O'Sullivan
 
 #### Peru Bhardwaj (ADAPT TCD - Accenture)
-+ Dates: Aug 2018 - Apr 2020
++ Dates: Aug 2018 - Apr 2020 
 + Title: Towards Adversarially Robust Knowledge Graph Embeddings. ([Related paper at AAAI-2020](https://doi.org/10.1609/aaai.v34i10.7128))
 + Co-Supervisors: Declan O'Sullivan, Freddy Lecue, Luca Costabello
 
 #### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) 
-+ Dates: Jun 2016 - now
++ Dates: Jun 2016 - 2021
 + Title: Knowledge Context for Entity and Relation Linking. (Thesis submitted, [related paper](https://doi.org/10.1145/3132218.3132229))
 + Co-Supervisors: Sören Auer, Jens Lehmann
 
 #### Fathoni A. Musyaffa (Fraunhofer IAIS - Uni Bonn) 
-+ Dates: 2015 - Mar 2021
++ Dates: 2015 - Mar 2021 (completed)
 + Title: [Comparative Analysis of Open Linked Fiscal Data](http://hdl.handle.net/20.500.11811/9114)
 + Co-Supervisors: Sören Auer, Jens Lehmann
 
@@ -42,7 +43,7 @@ sidebar:
 + + Co-Supervisor: Sören Auer
 
 #### Judie Attard (Fraunhofer IAIS - Uni Bonn) 
-+ Dates: May 2014 - Mar 2017
++ Dates: May 2014 - Mar 2017 (completed)
 + Title: [Strategies and Approaches for Exploiting the Value of Open Data](http://hdl.handle.net/20.500.11811/7184)
 + Co-Supervisor: Sören Auer
 
