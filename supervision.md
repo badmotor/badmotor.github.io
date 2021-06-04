@@ -80,6 +80,11 @@ sidebar:
 + Title: [Semantic Blockchain: Analytical Assessment of Productive Symbioses](http://fabriziorlandi.net/pdf/2016/Matthew_2016_MSc_Thesis.pdf) [(related paper)](https://arxiv.org/abs/1609.02598)
 + Co-Supervisor: Sören Auer
 
+#### Carmen Fernandez Pinedo (MSc, Computer Science, Uni Bonn & UPM Madrid)
++ Year: 2014/2015 (MSc Thesis)
++ Title: An Analysis of Open European Public Procurement Data
++ Co-Supervisor: Sören Auer
+ 
 #### Gaurav Singha Roy (MSc, Computer Science, Uni Bonn)
 + Year: 2014/2015 (MSc Thesis)
 + Title: [A Framework for RDF Data Exploration and Conversion](http://fabriziorlandi.net/pdf/2015/Gaurav_2015_MSc_Thesis.pdf)
