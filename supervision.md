@@ -97,6 +97,7 @@ sidebar:
 #### Yakun Li (Fraunhofer IAIS, Bonn)
 #### Hantong Liu (Fraunhofer IAIS, Bonn)
 #### Maik Lukasch (Fraunhofer IAIS, Bonn)
+#### Wang Kang (Uni Bonn)
 #### Dr. Tiansi Dong (Uni Bonn)
 #### Christiane Engels (Uni Bonn)
 #### Fahrettin Gökgöz (Fraunhofer IAIS, Bonn)
