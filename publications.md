@@ -13,6 +13,8 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2021
 
++ Ngo, Vuong M.; Munnelly, Gary; Orlandi, Fabrizio; Crooks, Peter; O'Sullivan, Declan; Conlan, Owen; A Semantic Search Engine for Historical Handwritten Document Images, *25th International Conference on Theory and Practice of Digital Libraries (TPDL)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/TPDL2021_Semantic-Search-Historical.pdf">[PDF]</a>
+
 + Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; An Ontology Model for Climatic Data Analysis, *41st IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IGARSS2021_Ontology-Climate.pdf">[PDF]</a>
 
 + Orlandi, Fabrizio; Graux, Damien; O'Sullivan, Declan; Benchmarking RDF Metadata Representations: Reification, Singleton Property and RDF\*, *15th IEEE International Conference on Semantic Computing (ICSC)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ICSC2021_REF-Benchmark.pdf">[PDF]</a>
