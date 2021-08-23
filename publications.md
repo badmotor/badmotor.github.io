@@ -13,6 +13,9 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2021
 
+
++ Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Formal Concept Analysis for Semantic Compression of Knowledge Graph Versions, *9th FCA4AI Workshop co-located with IJCAI 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCAI-FCA4AI-2021_KG-Compression.pdf">[PDF]</a>
+
 + Ngo, Vuong M.; Munnelly, Gary; Orlandi, Fabrizio; Crooks, Peter; O'Sullivan, Declan; Conlan, Owen; A Semantic Search Engine for Historical Handwritten Document Images, *25th International Conference on Theory and Practice of Digital Libraries (TPDL)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/TPDL2021_Semantic-Search-Historical.pdf">[PDF]</a>
 
 + Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; An Ontology Model for Climatic Data Analysis, *41st IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IGARSS2021_Ontology-Climate.pdf">[PDF]</a>
