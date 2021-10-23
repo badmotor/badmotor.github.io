@@ -13,6 +13,12 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2021
 
++ Graux, Damien; Orlandi, Fabrizio; O'Sullivan, Declan; Hash-ssessing the freshness of SPARQL pipelines, *ISWC (Posters and Demos)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC2021_Poster_Hash-ssessing-SPARQL-Pipelines.pdf">[PDF]</a>
+
++ Graux, Damien; Orlandi, Fabrizio; O'Sullivan, Declan; De-icing federated SPARQL pipelines: a method for assessing the “freshness” of result sets, *7th Managing the Evolution and Preservation of the Data Web (MEPDaW) workshop at ISWC 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC-MEPDaW2021_Hash-Federated-SPARQL-Pipelines.pdf">[PDF]</a>
+
++ Graux, Damien; Orlandi, Fabrizio; Kaushik, Tanmay; Kavanagh, David; Jiang, Hailing; Bredican, Brian; Grouse, Matthew; Geary, Dáithí; Timelining Knowledge Graphs in the Browser, *6th Visualization and Interaction for Ontologies and Linked Data (Voila!) workshop at ISWC 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC-VOILA2021_Timelining-KGs-Wikidata.pdf">[PDF]</a>
+
 + Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Formal Concept Analysis for Semantic Compression of Knowledge Graph Versions, *9th FCA4AI Workshop co-located with IJCAI 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCAI-FCA4AI-2021_KG-Compression.pdf">[PDF]</a>
 
 + Wu, Jiantao; Orlandi, Fabrizio; Alskaif, Tarek; O'Sullivan, Declan; Dev, Soumyabrata; Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/SEST2021_Ontology-Decentralized-Energy.pdf">[PDF]</a><a href="https://arxiv.org/abs/2108.01504">[arXiv]</a><a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">[presentation]</a>
