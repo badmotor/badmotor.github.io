@@ -21,6 +21,10 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Formal Concept Analysis for Semantic Compression of Knowledge Graph Versions, *9th FCA4AI Workshop co-located with IJCAI 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCAI-FCA4AI-2021_KG-Compression.pdf">[PDF]</a>
 
++ Wu, Jiantao; Chen, Huan; Orlandi, Fabrizio; Lee, Yee Hui; O'Sullivan, Declan; Dev, Soumyabrata; An Interoperable Open Data Portal for Climate Analysis, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. <a href="https://arxiv.org/abs/2110.09797">[arXiv]</a>
+
++ Wu, Jiantao; Chen, Huan; Orlandi, Fabrizio; Lee, Yee Hui; O'Sullivan, Declan; Dev, Soumyabrata; Automated Climate Analyses Using Knowledge Graph, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. <a href="https://arxiv.org/abs/2110.11039">[arXiv]</a>
+
 + Wu, Jiantao; Orlandi, Fabrizio; Alskaif, Tarek; O'Sullivan, Declan; Dev, Soumyabrata; Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/SEST2021_Ontology-Decentralized-Energy.pdf">[PDF]</a><a href="https://arxiv.org/abs/2108.01504">[arXiv]</a><a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">[presentation]</a>
 
 + Ngo, Vuong M.; Munnelly, Gary; Orlandi, Fabrizio; Crooks, Peter; O'Sullivan, Declan; Conlan, Owen; A Semantic Search Engine for Historical Handwritten Document Images, *25th International Conference on Theory and Practice of Digital Libraries (TPDL)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/TPDL2021_Semantic-Search-Historical.pdf">[PDF]</a>
