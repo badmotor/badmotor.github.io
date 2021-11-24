@@ -1,7 +1,7 @@
 title:            Fabrizio Orlandi's site
-description:      Welcome to my site.
+description:      Welcome to Fabrizio Orlandi's personal web page.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //badmotor.github.io
+url:              "https://fabriziorlandi.net"
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: badmotor
@@ -51,7 +51,7 @@ links:
   - title: Contact
     url: /contact/      
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Dublin
 future:      true
 #pygments:    true
