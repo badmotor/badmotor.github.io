@@ -13,6 +13,8 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2021
 
++ Navarro-Gallinad, Albert; Orlandi, Fabrizio; O'Sullivan, Declan; Enhancing Rare Disease Research with Semantic Integration of Environmental and Health Data, *The 10th ACM/SIGAI International Joint Conference on Knowledge Graphs (IJCKG 2021)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCKG2021_Rare-Disease-Semantic-Environment-Health.pdf">[PDF]</a>
+
 + Graux, Damien; Orlandi, Fabrizio; O'Sullivan, Declan; Hash-ssessing the freshness of SPARQL pipelines, *ISWC (Posters and Demos)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC2021_Poster_Hash-ssessing-SPARQL-Pipelines.pdf">[PDF]</a>
 
 + Graux, Damien; Orlandi, Fabrizio; O'Sullivan, Declan; De-icing federated SPARQL pipelines: a method for assessing the “freshness” of result sets, *7th Managing the Evolution and Preservation of the Data Web (MEPDaW) workshop at ISWC 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC-MEPDaW2021_Hash-Federated-SPARQL-Pipelines.pdf">[PDF]</a>
