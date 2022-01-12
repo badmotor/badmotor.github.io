@@ -13,6 +13,12 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 #### 2021
 
++ Wu, Jiantao; Orlandi, Fabrizio; Lee, Yee Hui; O'Sullivan, Declan; Dev, Soumyabrata; Organizing Decentralized Energy Data Using Semantic Approach, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ Wu, Jiantao; Orlandi, Fabrizio; Gollini, Isabella; Pisoni, Enrico; Dev, Soumyabrata; Uplifting Air Quality Data Using Knowledge Graph, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Detecting Rainfall Events Leveraging Climate Knowledge Graphs, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
 + Navarro-Gallinad, Albert; Orlandi, Fabrizio; O'Sullivan, Declan; Enhancing Rare Disease Research with Semantic Integration of Environmental and Health Data, *The 10th ACM/SIGAI International Joint Conference on Knowledge Graphs (IJCKG 2021)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCKG2021_Rare-Disease-Semantic-Environment-Health.pdf">[PDF]</a>
 
 + Graux, Damien; Orlandi, Fabrizio; O'Sullivan, Declan; Hash-ssessing the freshness of SPARQL pipelines, *ISWC (Posters and Demos)*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC2021_Poster_Hash-ssessing-SPARQL-Pipelines.pdf">[PDF]</a>
