@@ -27,7 +27,7 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Graux, Damien; Orlandi, Fabrizio; Kaushik, Tanmay; Kavanagh, David; Jiang, Hailing; Bredican, Brian; Grouse, Matthew; Geary, Dáithí; Timelining Knowledge Graphs in the Browser, *6th Visualization and Interaction for Ontologies and Linked Data (Voila!) workshop at ISWC 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/ISWC-VOILA2021_Timelining-KGs-Wikidata.pdf">[PDF]</a>
 
-+ Collarana, Diego; Graux, Damien; Orlandi, Fabrizio; Formal Concept Analysis for Semantic Compression of Knowledge Graph Versions, *9th FCA4AI Workshop co-located with IJCAI 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCAI-FCA4AI-2021_KG-Compression.pdf">[PDF]</a>
++ Graux, Damien; Collarana, Diego; Orlandi, Fabrizio; Formal Concept Analysis for Semantic Compression of Knowledge Graph Versions, *9th FCA4AI Workshop co-located with IJCAI 2021*, 2021. <a href="http://fabriziorlandi.net/pdf/2021/IJCAI-FCA4AI-2021_KG-Compression.pdf">[PDF]</a>
 
 + Wu, Jiantao; Chen, Huan; Orlandi, Fabrizio; Lee, Yee Hui; O'Sullivan, Declan; Dev, Soumyabrata; An Interoperable Open Data Portal for Climate Analysis, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. <a href="https://arxiv.org/abs/2110.09797">[arXiv]</a>
 
