@@ -11,6 +11,10 @@ comments: false
 
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
+#### 2022
+
++ Graux, Damien; Orlandi, Fabrizio; Through the Lens of the Web Conference Series: A Look Into the History of the Web, *The ACM Web Conference (ex WWW)*, 2022. <a href="http://fabriziorlandi.net/pdf/2022/WWW2022_HistoryOfTheWeb.pdf">[PDF]</a>
+
 #### 2021
 
 + Wu, Jiantao; Orlandi, Fabrizio; Lee, Yee Hui; O'Sullivan, Declan; Dev, Soumyabrata; Organizing Decentralized Energy Data Using Semantic Approach, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
