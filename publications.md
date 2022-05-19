@@ -15,6 +15,12 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Graux, Damien; Orlandi, Fabrizio; Through the Lens of the Web Conference Series: A Look Into the History of the Web, *The ACM Web Conference (ex WWW)*, 2022. <a href="https://doi.org/10.1145/3485447.3512281">[DOI]</a><a href="http://fabriziorlandi.net/pdf/2022/WWW2022_HistoryOfTheWeb.pdf">[PDF]</a>
 
++ Wu, Jiantao; Orlandi, Fabrizio; Pathan, M.S.; O'Sullivan, Declan; Dev, Soumyabrata; Augmenting Weather Sensor Data With Remote Knowledge Graphs, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022.
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Publishing Climate Data As Linked Data Via Virtual Knowledge Graphs, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022.
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
 #### 2021
 
 + Wu, Jiantao; Orlandi, Fabrizio; Lee, Yee Hui; O'Sullivan, Declan; Dev, Soumyabrata; Organizing Decentralized Energy Data Using Semantic Approach, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
