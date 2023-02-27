@@ -7,10 +7,11 @@ image:
   feature: 
 ---
 
-I'm a Research Scientist (<a href="https://edge-research.eu/fellows/fabrizio-orlandi/">Marie Skłodowska-Curie EDGE fellow</a>) at <a href="https://www.adaptcentre.ie/team-members/person-detail/fabrizio-orlandi">ADAPT Centre</a> based at <a href="https://www.tcd.ie">Trinity College Dublin</a>. Currently working with <a href="https://www.tcd.ie/research/profiles/?profile=osulldps">Prof. Declan O'Sullivan</a> and <a href="https://ie.linkedin.com/in/declanmckibben">Declan McKibben</a>, in collaboration with the <a href="https://www.adaptcentre.ie/industry/design-and-innovation-lab">Design & Innovation Lab (dLab)</a>, ADAPT Centre. 
+I'm Senior Knowledge and Data Engineer, with more than 10 years experience in building Knowledge Graphs (KG), ontologies, taxonomies and data integration/transformation pipelines. I currently work with Inter IKEA Systems B.V. as lead KG expert and independent consultant. I'm also Research Scientist collaborating with the <a href="https://www.adaptcentre.ie/team-members/person-detail/fabrizio-orlandi">ADAPT SFI Research Centre</a> and <a href="https://www.tcd.ie">Trinity College Dublin</a>. 
+<!---was (<a href="https://edge-research.eu/fellows/fabrizio-orlandi/">Marie Skłodowska-Curie EDGE fellow</a>) working with <a href="https://www.tcd.ie/research/profiles/?profile=osulldps">Prof. Declan O'Sullivan</a> and <a href="https://ie.linkedin.com/in/declanmckibben">Declan McKibben</a>, in collaboration with the <a href="https://www.adaptcentre.ie/industry/design-and-innovation-lab">Design & Innovation Lab (dLab)</a>, ADAPT Centre.---> 
 
 <br />
-My research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Social Media, Personalisation and Open Data. In these areas, I have experience on foundational and applied research on both EU-funded and industry projects.
+My research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Personalisation, Climate and Environmental Research, Health and Open (Government) Data. In these areas, I have experience on foundational and applied research on both EU-funded and industry projects.
 <!---comments here--->
 
 <br />
