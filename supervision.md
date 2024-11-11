@@ -109,7 +109,7 @@ sidebar:
 <!--
 |                  |                                                                       |
 |------------------|-----------------------------------------------------------------------|
-| email            | <a href="mailto:orlandif[*AT*]tcd[*DOT*]ie">orlandif[*AT*]tcd[*DOT*]ie</a>|
+| email            | <a href="mailto:fabrizio.orlandi[*AT*]adaptcentre[*DOT*]ie">fabrizio.orlandi[*AT*]adaptcentre[*DOT*]ie</a>|
 | address          | The ADAPT Centre                                                      |
 |                  | Room G31, O’Reilly Building, Dublin 2                                 |
 |                  | Trinity College Dublin, Ireland                                       |
