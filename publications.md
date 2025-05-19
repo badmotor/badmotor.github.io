@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 tags: [publications]
-modified: 03-04-2019
+modified: 19-05-2025
 comments: false
 ---
 
@@ -11,15 +11,49 @@ comments: false
 
 For an updated list of publications you can check my profile on <a href="https://scholar.google.com/citations?user=OC6mokcAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.scopus.com/authid/detail.uri?authorId=36461634000">Scopus</a>.
 
+#### 2024
+
++ Navarro-Gallinad, Albert; Orlandi, Fabrizio; Scott, Jennifer; Havyarimana, Enock; Basu, Neil; Little, Mark A.; O'Sullivan, Declan; Enabling data linkages for rare diseases in a resilient environment with the SERDIF framework, *(Nature) NPJ Digital Medicine 7, 274*, 2024. <a href="https://doi.org/10.1038/s41746-024-01267-6">[DOI]</a>
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Leveraging Knowledge Graphs for Enhancing Climate-Resilient Agricultural Analysis, *2024 IEEE 9th International Conference on Computational Intelligence and Applications*, 2024.
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; LinkedGeoClimate: An Interoperable Platform for Climate Data Access Within Geographical Context, *IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing*, 2024.
+
++ Qureshi, M.U.; Graux, Damien; Orlandi, Fabrizio; O'Sullivan, Declan; Auto-generation of Blockchain-Based Distributed Applications Using Ontologies, *Blockchain and Smart-Contract Technologies for Innovative Applications*, Springer (Book Chapter) 217-258, 2024. <a href="https://doi.org/10.1007/978-3-031-50028-2_8">[DOI]</a>
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; On the Use of Virtual Knowledge Graphs to Improve Environmental Sensor Data Accessibility, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
+
+#### 2023
+
++ Wu, Jiantao; O'Sullivan, C.; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Measurement of industrial smoke plumes from satellite images, *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium*, 2023.
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Ontological modeling of climate data to improve climate analytics, *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium*, 2023.
+
++ Navarro-Gallinad, A.; Orlandi, Fabrizio; Scott, J.; Little, M.; O'Sullivan, Declan; Evaluating the usability of a semantic environmental health data framework: approach and study, *Semantic Web*, 14 (5), 787-810, 2023.
+
++ Wu, Jiantao; Pierse, J.; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Improving tourism analytics from climate data using knowledge graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023.
+
 #### 2022
 
 + Graux, Damien; Orlandi, Fabrizio; Through the Lens of the Web Conference Series: A Look Into the History of the Web, *The ACM Web Conference (ex WWW)*, 2022. <a href="https://doi.org/10.1145/3485447.3512281">[DOI]</a><a href="http://fabriziorlandi.net/pdf/2022/WWW2022_HistoryOfTheWeb.pdf">[PDF]</a>
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Pisoni, Enrico; Dev, Soumyabrata; Boosting climate analysis with semantically uplifted knowledge graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
+
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; LinkClimate: An interoperable knowledge graph platform for climate data, *Computers & Geosciences*, 169, 105215, 2022.
+
++ Wu, Jiantao; Orlandi, Fabrizio; AlSkaif, Tarek; O'Sullivan, Declan; Dev, Soumyabrata; A semantic web approach to uplift decentralized household energy data, *Sustainable Energy, Grids and Networks*, 32, 100891, 2022.
+
++ Hooshafza, Sepideh; Orlandi, Fabrizio; Flynn, R.; McQuaid, L.; Stephens, Gaye; O'Connor, L.; Modelling temporal data in knowledge graphs: a systematic review protocol, *HRB Open Research 4, 101*, 2022.
 
 + Wu, Jiantao; Orlandi, Fabrizio; Pathan, Muhammad Salman; O'Sullivan, Declan; Dev, Soumyabrata; Augmenting Weather Sensor Data With Remote Knowledge Graphs, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022.
 
 + Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Publishing Climate Data As Linked Data Via Virtual Knowledge Graphs, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022.
 
-+ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
++ Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *42nd IEEE Geoscience and Remote Sensing Symposium (IGARSS)*, 2022.
+
++ Patil, Ankur; Jain, Nishtha; Agrahari, Rahul; Hossari, Murhaf; Orlandi, Fabrizio; Dev, Soumyabrata; A data-driven analysis of formula 1 car races outcome, *Irish Conference on Artificial Intelligence and Cognitive Science*, 134-146, 2022.
+
++ Graux, Damien; Orlandi, Fabrizio; Niazmand, E.; Ydler, G.; Vidal, Maria-Esther.; Preface of MEPDaW 2022: Managing the Evolution and Preservation of the Data Web, *CEUR workshop proceedings*, 3339, 2022.
 
 #### 2021
 
