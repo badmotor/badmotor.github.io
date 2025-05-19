@@ -29,7 +29,7 @@ For an updated list of publications you can check my profile on <a href="https:/
 
 + Wu, Jiantao; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Ontological modeling of climate data to improve climate analytics, *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium*, 2023.
 
-+ Navarro-Gallinad, A.; Orlandi, Fabrizio; Scott, J.; Little, M.; O'Sullivan, Declan; Evaluating the usability of a semantic environmental health data framework: approach and study, *Semantic Web*, 14 (5), 787-810, 2023.
++ Navarro-Gallinad, A.; Orlandi, Fabrizio; Scott, J.; Little, M.; O'Sullivan, Declan; Evaluating the usability of a semantic environmental health data framework: approach and study, *Semantic Web*, 14 (5), 787-810, 2023. <a href="https://doi.org/10.3233/SW-223212">[DOI]</a>
 
 + Wu, Jiantao; Pierse, J.; Orlandi, Fabrizio; O'Sullivan, Declan; Dev, Soumyabrata; Improving tourism analytics from climate data using knowledge graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023.
 
