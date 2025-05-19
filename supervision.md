@@ -3,7 +3,7 @@ layout: novipage
 permalink: /supervision/
 title: Supervision
 tags: 
-modified: 31-05-2021
+modified: 19-05-2025
 comments: false
 sidebar:
   nav: sidebar-supervision
@@ -12,15 +12,15 @@ sidebar:
 
 # Ph.D. Students
 
-#### Albert Navarro Gallinad (ADAPT TCD)
-+ Dates: Sep 2020 - now
-+ Title (provisional): [Semantic Environmental and Rare Disease Data Integration Framework](http://helical-itn.eu/albert-navarro-gallinad/)
-+ Co-Supervisor: Declan O'Sullivan
-
 #### Jiantao Wu (ADAPT UCD)
-+ Dates: Jun 2020 - now
-+ Title (provisional): [Knowledge Graphs for Climate Data Analysis](http://jresearch.ucd.ie/linkclimate/index.html)
++ Dates: Jul 2020 - Jan 2025
++ Title (provisional): [Bridging the Climate and Environmental Data Divide: A Knowledge Graph Approach](http://jresearch.ucd.ie/linkclimate/index.html)
 + Co-Supervisors: Soumyabrata Dev, Declan O'Sullivan
+
+#### Albert Navarro Gallinad (ADAPT TCD)
++ Dates: Sep 2020 - May 2023
++ Title: [A Usable Knowledge Graph Framework for Linking Health Events with Environmental Data](http://helical-itn.eu/albert-navarro-gallinad/)
++ Co-Supervisor: Declan O'Sullivan
 
 #### Peru Bhardwaj (ADAPT TCD - Accenture)
 + Dates: Aug 2018 - Apr 2020 
@@ -29,7 +29,7 @@ sidebar:
 
 #### Isaiah Onando Mulang' (Fraunhofer IAIS - Uni Bonn) 
 + Dates: Jun 2016 - 2021
-+ Title: Knowledge Context for Entity and Relation Linking. (Thesis submitted, [related paper](https://doi.org/10.1145/3132218.3132229))
++ Title: Knowledge Context for Entity and Relation Linking. ([related paper](https://doi.org/10.1145/3132218.3132229))
 + Co-Supervisors: Sören Auer, Jens Lehmann
 
 #### Fathoni A. Musyaffa (Fraunhofer IAIS - Uni Bonn) 
