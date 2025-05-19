@@ -14,7 +14,7 @@ sidebar:
 
 #### Jiantao Wu (ADAPT UCD)
 + Dates: Jul 2020 - Jan 2025
-+ Title (provisional): [Bridging the Climate and Environmental Data Divide: A Knowledge Graph Approach](http://jresearch.ucd.ie/linkclimate/index.html)
++ Title: [Bridging the Climate and Environmental Data Divide: A Knowledge Graph Approach](http://jresearch.ucd.ie/linkclimate/index.html)
 + Co-Supervisors: Soumyabrata Dev, Declan O'Sullivan
 
 #### Albert Navarro Gallinad (ADAPT TCD)
