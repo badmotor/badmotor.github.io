@@ -19,7 +19,7 @@ affiliation: IEEE (S'09-M'17)
 | mastodon         | <a rel="me" href="https://mastodon.social/@BadmotorF">https://mastodon.social/@BadmotorF</a> |
 | email            | <a href="mailto:fab[*DOT*]orl[*DOT*]edu[*AT*]proton[*DOT*]me">fab[*DOT*]orl[*DOT*]edu[*AT*]proton[*DOT*]me</a> |
 | address          | Dublin, Ireland                                                       |
-| affiliation      | <img src="https://www.ikea.com/global/assets/logos/brand/ikea.svg" width="140">      |
+| affiliation      | <img src="https://www.semanticpartners.com/assets/logo.svg" width="140">      |
 
 <!---
 | curriculum vitae | <a href="https://">PDF</a>|
